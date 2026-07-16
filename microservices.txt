@@ -1,0 +1,223 @@
+## Microservices Progressive Learning Roadmap (100 Topics)
+
+### Phase 1 – Foundations (1–15)
+
+1. What is Microservices?
+2. Monolith vs Microservices
+3. SOA vs Microservices
+4. Microservice Architecture
+5. Business Capability
+6. Domain-Driven Design (DDD) Basics
+7. Bounded Context
+8. Single Responsibility Principle
+9. Loose Coupling
+10. High Cohesion
+11. Service Autonomy
+12. Fault Isolation
+13. Resilience
+14. Scalability
+15. Availability
+
+---
+
+### Phase 2 – Core Concepts (16–30)
+
+16. Independent Deployment
+17. Independent Scaling
+18. Stateless Services
+19. Stateful Services
+20. Database per Service
+21. Polyglot Persistence
+22. Polyglot Programming
+23. API First Design
+24. Synchronous Communication
+25. Asynchronous Communication
+26. Event-Driven Architecture
+27. Eventual Consistency
+28. Idempotency
+29. Service Boundaries
+30. Shared Nothing Architecture
+
+---
+
+### Phase 3 – Communication (31–40)
+
+31. REST APIs
+32. gRPC
+33. GraphQL
+34. WebSockets
+35. Apache Kafka
+36. RabbitMQ
+37. Amazon SQS
+38. Event Bus
+39. Message Broker
+40. Message Queue
+
+---
+
+### Phase 4 – Design Patterns (41–60)
+
+41. Strangler Fig Pattern
+42. API Gateway Pattern
+43. Backend for Frontend (BFF)
+44. Service Discovery Pattern
+45. Circuit Breaker Pattern
+46. Retry Pattern
+47. Timeout Pattern
+48. Fallback Pattern
+49. Bulkhead Pattern
+50. Saga Pattern
+51. CQRS Pattern
+52. Event Sourcing Pattern
+53. Outbox Pattern
+54. Inbox Pattern
+55. Transactional Messaging Pattern
+56. Aggregator Pattern
+57. Adapter Pattern
+58. Sidecar Pattern
+59. Ambassador Pattern
+60. Anti-Corruption Layer (ACL)
+
+---
+
+### Phase 5 – Data Management (61–70)
+
+61. Distributed Transactions
+62. Two-Phase Commit (2PC)
+63. Choreography Saga
+64. Orchestration Saga
+65. Data Replication
+66. Event Versioning
+67. Schema Evolution
+68. Data Synchronization
+69. Read Models
+70. Materialized Views
+
+---
+
+### Phase 6 – Service Infrastructure (71–80)
+
+71. API Gateway
+72. Service Registry
+73. Eureka
+74. Consul
+75. Kubernetes DNS
+76. Configuration Server
+77. Distributed Configuration
+78. Secrets Management
+79. Feature Flags
+80. Service Mesh
+
+---
+
+### Phase 7 – Resilience & Reliability (81–90)
+
+81. Health Checks
+82. Liveness Probe
+83. Readiness Probe
+84. Graceful Shutdown
+85. Exponential Backoff
+86. Dead Letter Queue (DLQ)
+87. Dead Letter Topic (DLT)
+88. Poison Messages
+89. Competing Consumers
+90. Leader Election
+
+---
+
+### Phase 8 – Observability (91–95)
+
+91. Centralized Logging
+92. Distributed Tracing
+93. Metrics
+94. Monitoring
+95. Alerting
+
+---
+
+### Phase 9 – Deployment & Operations (96–100)
+
+96. Docker
+97. Kubernetes
+98. CI/CD for Microservices
+99. Blue-Green & Canary Deployment
+100. 12-Factor App
+
+---
+
+# Advanced Topics (After the First 100)
+
+* Hexagonal Architecture
+* Clean Architecture
+* Onion Architecture
+* Vertical Slice Architecture
+* API Composition
+* Database Sharding
+* Database Partitioning
+* Distributed Cache
+* Redis
+* Cache Aside Pattern
+* Read Through Cache
+* Write Through Cache
+* Write Behind Cache
+* Cache Invalidation
+* Event Streaming
+* Event Replay
+* Event Store
+* Snapshotting
+* Change Data Capture (CDC)
+* Debezium
+* Transaction Log Tailing
+* Service Contracts
+* Contract Testing
+* Consumer-Driven Contracts
+* Pact
+* OpenAPI / Swagger
+* AsyncAPI
+* Protocol Buffers
+* Rate Limiting
+* API Versioning
+* OAuth2
+* OpenID Connect
+* JWT
+* mTLS
+* Zero Trust
+* Distributed Locking
+* Consensus Algorithms
+* CAP Theorem
+* BASE Principle
+* PACELC Theorem
+* Consistent Hashing
+* Backpressure
+* Flow Control
+* Load Balancing
+* Reverse Proxy
+* NGINX
+* Envoy
+* Istio
+* Linkerd
+* KEDA
+* Horizontal Pod Autoscaler (HPA)
+* Vertical Pod Autoscaler (VPA)
+* Chaos Engineering
+* Chaos Monkey
+* Bulk Processing
+* Batch vs Stream Processing
+* Stream Processing
+* Apache Flink
+* Kafka Streams
+* Service Catalog
+* API Governance
+* Platform Engineering
+* Internal Developer Platform (IDP)
+* Multi-Tenancy
+* Multi-Region Deployment
+* Disaster Recovery
+* Backup & Restore
+* RPO/RTO
+* Security Scanning
+* Supply Chain Security
+* SBOM
+* GitOps
+* Argo CD
+* Flux CD
